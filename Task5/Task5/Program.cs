@@ -6,7 +6,7 @@ namespace Task5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(HasLetter("Menim adim Aysedir", "k"));
+            Console.WriteLine(HasLetter("Menim adim Aysedir", "Menim"));
         }
         static bool HasLetter(string text, string word)
         {
@@ -22,6 +22,18 @@ namespace Task5
             }
             return false;
         }
-        
+        static bool HasLetter(string text)
+        {
+            char letter = 'm';
+            for (int i = 0; i < text.Length; i++)
+            {
+                if (text[i] == letter)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
     }
 }
