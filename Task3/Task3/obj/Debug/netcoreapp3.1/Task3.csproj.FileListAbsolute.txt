@@ -12,3 +12,17 @@ C:\Users\HP\Desktop\Tasks\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreC
 C:\Users\HP\Desktop\Tasks\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.dll
 C:\Users\HP\Desktop\Tasks\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
 C:\Users\HP\Desktop\Tasks\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.AssemblyReference.cache
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+C:\Users\tu7hnsxs1\Desktop\c--Task2\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
